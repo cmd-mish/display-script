@@ -1,0 +1,5 @@
+# This file is placed to /etc/xdg/autostart/
+
+[Desktop Entry]
+Name=StartPlayback
+Exec=~/Desktop/video/start.sh
